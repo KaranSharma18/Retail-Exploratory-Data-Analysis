@@ -4,4 +4,4 @@ Exploratory Data Analysis on SampleSuperstore Data in order to find out the weak
 
 **My contact info** : karansharma4336@gmail.com
 
-**by __[Karan Sharma](https://github.com/KaranSharma18)__ - Feb 2021**
+**by __[Karan Sharma](https://github.com/KaranSharma18)__ - Dec 2020**
